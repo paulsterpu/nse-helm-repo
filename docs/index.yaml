@@ -3,9 +3,9 @@ entries:
   istio_clients:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-10-17T13:15:27.944490174Z"
+    created: "2020-10-17T13:48:51.403787322Z"
     description: A Helm chart for Kubernetes
-    digest: 93779191f93ccb8ebdca3e8c610c433c78bc30ef9ef7e649551fa335fe2748bb
+    digest: bf6178374a3f8aaadc07e1d387652ade1b18c633612c77aa0e553fe631b6e23b
     name: istio_clients
     urls:
     - https://paulsterpu.github.io/nse-helm-repo/ucnf-kiknos/istio_clients-0.1.0.tgz
@@ -13,9 +13,9 @@ entries:
   istio_ingress:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-10-17T13:15:27.945485798Z"
+    created: "2020-10-17T13:48:51.404804024Z"
     description: A Helm chart for Kubernetes
-    digest: 145c2c54914884da24e2fcf822ed4ccfda4bad841661790ab0ca8bb4254a4975
+    digest: bfd196c85e4c98cf23989b0774321ebef900b8052c7e62e8ce6d01108761836c
     name: istio_ingress
     urls:
     - https://paulsterpu.github.io/nse-helm-repo/ucnf-kiknos/istio_ingress-0.1.0.tgz
@@ -23,9 +23,9 @@ entries:
   kiknos_vpn_endpoint:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-10-17T13:15:27.946355577Z"
+    created: "2020-10-17T13:48:51.405651608Z"
     description: Kiknos NSE deployment chart for Kubernetes
-    digest: bd7bdba018a3d099aa120479a508624a0483d0bce5fdff9976879483afbc2ca3
+    digest: 15d5311b7662fa157b4733d80e0ae77184badfc0f95bf2b05bf1b8b1dc880c5d
     name: kiknos_vpn_endpoint
     urls:
     - https://paulsterpu.github.io/nse-helm-repo/ucnf-kiknos/kiknos_vpn_endpoint-0.1.0.tgz
@@ -33,9 +33,9 @@ entries:
   mysql-master:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-10-17T13:15:27.943382616Z"
+    created: "2020-10-17T13:48:51.402741564Z"
     description: A Helm chart for Kubernetes
-    digest: 0413ace5541be8b2e20816ca00938446e9ce5fd69f4f602c343f9b5997b43ebd
+    digest: aee4e0189506b690b57a3f535faab7bdf76847c2859a20abefd15abaa14b0095
     name: mysql-master
     urls:
     - https://paulsterpu.github.io/nse-helm-repo/mysql-master-0.1.0.tgz
@@ -43,9 +43,9 @@ entries:
   mysql-slave:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-10-17T13:15:27.943718538Z"
+    created: "2020-10-17T13:48:51.403040109Z"
     description: A Helm chart for Kubernetes
-    digest: aa24d9abb37f068def4368995881d24acee6f93e00abc8ea08f62b25df1f5ecd
+    digest: 848451e039a50a6ac6602c2e368877a00b70c4f1be016a31cef7f36ed32ede93
     name: mysql-slave
     urls:
     - https://paulsterpu.github.io/nse-helm-repo/mysql-slave-0.1.0.tgz
@@ -53,9 +53,9 @@ entries:
   nsm-addons:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-10-17T13:15:27.943957754Z"
+    created: "2020-10-17T13:48:51.403256095Z"
     description: A Helm chart for Kubernetes
-    digest: 7d09ef9827a2e393f731dce0dcb8b2396a94970223f19ec92b854386aca2e068
+    digest: 44436abad5f2024e71ea6eb8bf5e3463da0d7980620379762fd1c3c368ce2346
     name: nsm-addons
     urls:
     - https://paulsterpu.github.io/nse-helm-repo/nsm-addons-0.1.0.tgz
@@ -63,9 +63,9 @@ entries:
   vl3:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-10-17T13:15:27.944292149Z"
+    created: "2020-10-17T13:48:51.403593649Z"
     description: A Helm chart for Kubernetes
-    digest: e2767c7b3e64ff91f2e6c4ed95e2427ffcd3c3ec34802cca4eb99e756234cd4a
+    digest: 8ae54c1a0de7c7906b85fbb06d8b4c66ccf0b7aecc533f295a15db4442b3fc4b
     name: vl3
     urls:
     - https://paulsterpu.github.io/nse-helm-repo/vl3-0.1.0.tgz
@@ -73,11 +73,11 @@ entries:
   vl3_hello:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-10-17T13:15:27.946597079Z"
+    created: "2020-10-17T13:48:51.405877323Z"
     description: A Helm chart for Kubernetes
-    digest: 363c9112cd4e4183ec07c84078d597b5aace148afd71f390dc2d2d8527d8c7e5
+    digest: 42740939b9dc7fcb9d55172b861d81329f96a69c65485bb73bac36d43b0352a0
     name: vl3_hello
     urls:
     - https://paulsterpu.github.io/nse-helm-repo/ucnf-kiknos/vl3_hello-0.1.0.tgz
     version: 0.1.0
-generated: "2020-10-17T13:15:27.942898673Z"
+generated: "2020-10-17T13:48:51.40228654Z"
